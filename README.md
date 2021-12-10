@@ -1,2 +1,3 @@
-# Repositório do Desafio de projeto sobre Git e Github da Digital Innovation One
-Desafio de Projeto sobre Git/GitHub
+# Repositório para colocar os exercicios efetuados na faculdade
+
+## Aqui irei colocar alguns exercicios feitos na faculdade
